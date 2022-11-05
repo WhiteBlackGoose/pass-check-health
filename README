@@ -1,0 +1,3 @@
+pass-check-health
+
+Util to run some tests against your ~/password-store folder for passwordstore util pass.
